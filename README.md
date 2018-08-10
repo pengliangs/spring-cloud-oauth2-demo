@@ -1,3 +1,6 @@
+
+[![Build Status](https://travis-ci.com/pengliangs/spring-cloud-oauth2-demo.svg?branch=master)](https://travis-ci.com/pengliangs/spring-cloud-oauth2-demo)
+
 # 回头在补详细说明
 
 
